@@ -1,0 +1,48 @@
+.jumbotron {
+  background-color: #e2edff;
+  margin-top: -50px;
+}
+
+.jumbotron img {
+  height: 300px;
+  width: 300px;
+}
+
+.jumbotron h3 {
+  text-shadow: rgb(255, 255, 255) 2px 2px;
+}
+
+.jumbotron h4 {
+  color: rgb(219, 106, 0);
+  text-shadow: rgb(213, 213, 213) 1px 1px;
+}
+
+#project {
+  background-color: #e2edff;
+}
+
+.card {
+  border-radius: 10px;
+  border-color: black;
+}
+
+.card img {
+  transition: transform 0.4s; /* Animation */
+  border-radius: 8px;
+}
+
+.card img:hover {
+  transform: scale(1.1);
+}
+
+.card a {
+  border-radius: 7px;
+}
+
+section {
+  padding-top: 6rem;
+}
+
+footer {
+  font-size: 30px;
+}
